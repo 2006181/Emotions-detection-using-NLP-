@@ -93,6 +93,10 @@ Emotions_detection-with-NLP/
 | `emotion_number.pkl`  | Mapping used to convert predicted numbers into emotion labels |
 | `.gitignore`          | Files and folders excluded from Git                           |
 
+## 🚀 Live Demo
+
+[Streamlit](https://2006181-emotions-detection-using-NLP--app-4cln8n.streamlit.app/)
+
 ## 🔄 Text Preprocessing
 
 Before prediction, the input text goes through preprocessing.
